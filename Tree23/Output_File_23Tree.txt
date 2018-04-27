@@ -1,0 +1,135 @@
+
+2-3 TREE IMPLEMENTATION:
+
+
+Is the tree empty?true
+INSERTING 10 RANDOM ELEMENTS: 28 33 12 37 33 36 6 38 18 34 
+
+splitting called for the element 12
+
+splitting called for the element 36
+
+splitting called for the element 18
+The total time of 10 insertion(ns): 868341.0
+
+AFTER INSERTIONS:
+
+
+
+In Order Display of the 2-3 Tree:
+6 12 18 28 33 34 36 37 38 
+
+Pre Order Display of the 2-3 Tree:
+28 12 6 18 36 33 34 37 38 
+Is the tree empty? false
+
+
+Size of the 2-3 Tree: 9
+
+
+SEARCHING 10 RANDOM ELEMENTS:
+
+
+
+
+Searching 42
+42 not found.
+
+
+Searching 40
+40 not found.
+
+
+Searching 27
+27 not found.
+
+
+Searching 18
+18 found successfully.
+
+
+Searching 22
+22 not found.
+
+
+Searching 48
+48 not found.
+
+
+Searching 23
+23 not found.
+
+
+Searching 45
+45 not found.
+
+
+Searching 30
+30 not found.
+
+
+Searching 16
+16 not found.
+
+The total time of 10 searches(ns): 2563972.0
+
+
+DELETING 10 RANDOM ELEMENTS:
+
+
+
+
+Deleting 26
+26 Not found
+
+
+Deleting 8
+8 Not found
+
+
+Deleting 30
+30 Not found
+
+
+Deleting 37
+37 deleted successfully.
+
+
+Deleting 47
+47 Not found
+
+
+Deleting 37
+37 Not found
+
+
+Deleting 17
+17 Not found
+
+
+Deleting 45
+45 Not found
+
+
+Deleting 27
+27 Not found
+
+
+Deleting 33
+33 deleted successfully.
+
+The total time of 10 deletions(ns): 2416274.0
+
+AFTER DELETIONS:
+
+
+In Order Display of the 2-3 Tree:
+6 12 18 28 34 36 38 
+
+Pre Order Display of the 2-3 Tree:
+28 12 6 18 36 34 38 
+Is the tree empty?false
+
+Size of the 2-3 Tree: 7
+
+Is the tree empty? false
